@@ -1,4 +1,8 @@
-<h1>Hi, I'm Adam Kandias! 👋</h1>
+<h1 align="center">Hi, I'm Adam Kandias! 👋</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdamKandias&style=flat-square" />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adam_kandias) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-kandias) 
